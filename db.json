@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "bookName": "Naruto",
+      "bookYear": "2020",
+      "bookPublisher": "MADARA",
+      "bookQuantity": "5000",
+      "id": 2
+    },
+    {
+      "bookName": "Dragon Ball",
+      "bookYear": "2017",
+      "bookPublisher": "Goku",
+      "bookQuantity": "500",
+      "id": 3
+    }
+  ]
+}
